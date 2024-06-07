@@ -1,2 +1,2 @@
 # plug
-PLUGINS BY @VnzVPN
+PLUGINS BY @RetriVPN
